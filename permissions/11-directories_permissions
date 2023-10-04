@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo+X $PWD
+chmod a+X $PWD
